@@ -1,0 +1,1107 @@
+[33mWARNING[0m:  [11-05-2024 10:54:34] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-05-2024 10:54:35] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-05-2024 10:54:35] Starting component System
+[36mDEBUG[0m:    [11-05-2024 10:54:35] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-05-2024 10:54:35] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [11-05-2024 10:54:35] Starting component SqliteDB
+[36mDEBUG[0m:    [11-05-2024 10:54:35] Starting component Posthog
+[36mDEBUG[0m:    [11-05-2024 10:54:35] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-05-2024 10:54:35] Starting component SegmentAPI
+[32mINFO[0m:     [11-05-2024 10:54:35] Started server process [[36m133226[0m]
+[32mINFO[0m:     [11-05-2024 10:54:35] Waiting for application startup.
+[32mINFO[0m:     [11-05-2024 10:54:35] Application startup complete.
+[32mINFO[0m:     [11-05-2024 10:54:35] Uvicorn running on [1mhttp://localhost:9999[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-05-2024 10:57:01] Shutting down
+[32mINFO[0m:     [11-05-2024 10:57:01] Waiting for application shutdown.
+[32mINFO[0m:     [11-05-2024 10:57:01] Application shutdown complete.
+[32mINFO[0m:     [11-05-2024 10:57:01] Finished server process [[36m133226[0m]
+[33mWARNING[0m:  [11-05-2024 11:47:36] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-05-2024 11:47:36] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-05-2024 11:47:36] Starting component System
+[36mDEBUG[0m:    [11-05-2024 11:47:36] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-05-2024 11:47:36] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [11-05-2024 11:47:36] Starting component SqliteDB
+[36mDEBUG[0m:    [11-05-2024 11:47:36] Starting component Posthog
+[36mDEBUG[0m:    [11-05-2024 11:47:36] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-05-2024 11:47:36] Starting component SegmentAPI
+[32mINFO[0m:     [11-05-2024 11:47:36] Started server process [[36m138095[0m]
+[32mINFO[0m:     [11-05-2024 11:47:36] Waiting for application startup.
+[32mINFO[0m:     [11-05-2024 11:47:36] Application startup complete.
+[32mINFO[0m:     [11-05-2024 11:47:36] Uvicorn running on [1mhttp://localhost:9999[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-05-2024 11:47:49] Shutting down
+[32mINFO[0m:     [11-05-2024 11:47:49] Waiting for application shutdown.
+[32mINFO[0m:     [11-05-2024 11:47:49] Application shutdown complete.
+[32mINFO[0m:     [11-05-2024 11:47:49] Finished server process [[36m138095[0m]
+[33mWARNING[0m:  [11-05-2024 11:49:01] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-05-2024 11:49:01] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-05-2024 11:49:01] Starting component System
+[36mDEBUG[0m:    [11-05-2024 11:49:01] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-05-2024 11:49:01] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [11-05-2024 11:49:01] Starting component SqliteDB
+[36mDEBUG[0m:    [11-05-2024 11:49:01] Starting component Posthog
+[36mDEBUG[0m:    [11-05-2024 11:49:01] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-05-2024 11:49:01] Starting component SegmentAPI
+[32mINFO[0m:     [11-05-2024 11:49:01] Started server process [[36m138327[0m]
+[32mINFO[0m:     [11-05-2024 11:49:01] Waiting for application startup.
+[32mINFO[0m:     [11-05-2024 11:49:01] Application startup complete.
+[32mINFO[0m:     [11-05-2024 11:49:01] Uvicorn running on [1mhttp://localhost:9999[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-05-2024 11:49:10] Shutting down
+[32mINFO[0m:     [11-05-2024 11:49:10] Waiting for application shutdown.
+[32mINFO[0m:     [11-05-2024 11:49:10] Application shutdown complete.
+[32mINFO[0m:     [11-05-2024 11:49:10] Finished server process [[36m138327[0m]
+[33mWARNING[0m:  [11-05-2024 11:49:25] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-05-2024 11:49:25] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-05-2024 11:49:25] Starting component System
+[36mDEBUG[0m:    [11-05-2024 11:49:25] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-05-2024 11:49:25] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [11-05-2024 11:49:25] Starting component SqliteDB
+[36mDEBUG[0m:    [11-05-2024 11:49:25] Starting component Posthog
+[36mDEBUG[0m:    [11-05-2024 11:49:25] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-05-2024 11:49:25] Starting component SegmentAPI
+[32mINFO[0m:     [11-05-2024 11:49:25] Started server process [[36m138522[0m]
+[32mINFO[0m:     [11-05-2024 11:49:25] Waiting for application startup.
+[32mINFO[0m:     [11-05-2024 11:49:25] Application startup complete.
+[32mINFO[0m:     [11-05-2024 11:49:25] Uvicorn running on [1mhttp://localhost:9999[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-05-2024 11:50:00] Shutting down
+[32mINFO[0m:     [11-05-2024 11:50:00] Waiting for application shutdown.
+[32mINFO[0m:     [11-05-2024 11:50:00] Application shutdown complete.
+[32mINFO[0m:     [11-05-2024 11:50:00] Finished server process [[36m138522[0m]
+[33mWARNING[0m:  [11-05-2024 12:01:13] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-05-2024 12:01:14] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-05-2024 12:01:14] Starting component System
+[36mDEBUG[0m:    [11-05-2024 12:01:14] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-05-2024 12:01:14] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [11-05-2024 12:01:14] Starting component SqliteDB
+[36mDEBUG[0m:    [11-05-2024 12:01:14] Starting component Posthog
+[36mDEBUG[0m:    [11-05-2024 12:01:14] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-05-2024 12:01:14] Starting component SegmentAPI
+[32mINFO[0m:     [11-05-2024 12:01:14] Started server process [[36m139234[0m]
+[32mINFO[0m:     [11-05-2024 12:01:14] Waiting for application startup.
+[32mINFO[0m:     [11-05-2024 12:01:14] Application startup complete.
+[32mINFO[0m:     [11-05-2024 12:01:14] Uvicorn running on [1mhttp://localhost:9999[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-05-2024 12:01:18] 127.0.0.1:58176 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 12:01:18] 127.0.0.1:58176 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 12:01:18] 127.0.0.1:58182 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 12:01:18] 127.0.0.1:58182 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 12:01:18] 127.0.0.1:58182 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 12:01:34] Shutting down
+[32mINFO[0m:     [11-05-2024 12:01:34] Waiting for application shutdown.
+[32mINFO[0m:     [11-05-2024 12:01:34] Application shutdown complete.
+[32mINFO[0m:     [11-05-2024 12:01:34] Finished server process [[36m139234[0m]
+[33mWARNING[0m:  [11-05-2024 12:01:48] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-05-2024 12:01:48] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-05-2024 12:01:48] Starting component System
+[36mDEBUG[0m:    [11-05-2024 12:01:48] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-05-2024 12:01:48] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [11-05-2024 12:01:48] Starting component SqliteDB
+[36mDEBUG[0m:    [11-05-2024 12:01:48] Starting component Posthog
+[36mDEBUG[0m:    [11-05-2024 12:01:48] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-05-2024 12:01:48] Starting component SegmentAPI
+[32mINFO[0m:     [11-05-2024 12:01:48] Started server process [[36m139485[0m]
+[32mINFO[0m:     [11-05-2024 12:01:48] Waiting for application startup.
+[32mINFO[0m:     [11-05-2024 12:01:48] Application startup complete.
+[32mINFO[0m:     [11-05-2024 12:01:48] Uvicorn running on [1mhttp://localhost:9999[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-05-2024 12:01:53] 127.0.0.1:60048 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 12:01:53] 127.0.0.1:60048 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 12:01:53] 127.0.0.1:60054 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[31mERROR[0m:    [11-05-2024 12:01:53] Collection chroma_db already exists
+Traceback (most recent call last):
+  File "/home/yueyulin/miniconda3/envs/pytorch-env/lib/python3.10/site-packages/anyio/streams/memory.py", line 98, in receive
+    return self.receive_nowait()
+  File "/home/yueyulin/miniconda3/envs/pytorch-env/lib/python3.10/site-packages/anyio/streams/memory.py", line 93, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/yueyulin/miniconda3/envs/pytorch-env/lib/python3.10/site-packages/starlette/middleware/base.py", line 78, in call_next
+    message = await recv_stream.receive()
+  File "/home/yueyulin/miniconda3/envs/pytorch-env/lib/python3.10/site-packages/anyio/streams/memory.py", line 118, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/yueyulin/miniconda3/envs/pytorch-env/lib/python3.10/site-packages/chromadb/server/fastapi/__init__.py", line 80, in catch_exceptions_middleware
+    return await call_next(request)
+  File "/home/yueyulin/miniconda3/envs/pytorch-env/lib/python3.10/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/home/yueyulin/miniconda3/envs/pytorch-env/lib/python3.10/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/home/yueyulin/miniconda3/envs/pytorch-env/lib/python3.10/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+  File "/home/yueyulin/miniconda3/envs/pytorch-env/lib/python3.10/site-packages/chromadb/server/fastapi/__init__.py", line 94, in check_http_version_middleware
+    return await call_next(request)
+  File "/home/yueyulin/miniconda3/envs/pytorch-env/lib/python3.10/site-packages/starlette/middleware/base.py", line 84, in call_next
+    raise app_exc
+  File "/home/yueyulin/miniconda3/envs/pytorch-env/lib/python3.10/site-packages/starlette/middleware/base.py", line 70, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "/home/yueyulin/miniconda3/envs/pytorch-env/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/home/yueyulin/miniconda3/envs/pytorch-env/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/home/yueyulin/miniconda3/envs/pytorch-env/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 20, in __call__
+    raise e
+  File "/home/yueyulin/miniconda3/envs/pytorch-env/lib/python3.10/site-packages/fastapi/middleware/asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "/home/yueyulin/miniconda3/envs/pytorch-env/lib/python3.10/site-packages/starlette/routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "/home/yueyulin/miniconda3/envs/pytorch-env/lib/python3.10/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/home/yueyulin/miniconda3/envs/pytorch-env/lib/python3.10/site-packages/starlette/routing.py", line 66, in app
+    response = await func(request)
+  File "/home/yueyulin/miniconda3/envs/pytorch-env/lib/python3.10/site-packages/fastapi/routing.py", line 274, in app
+    raw_response = await run_endpoint_function(
+  File "/home/yueyulin/miniconda3/envs/pytorch-env/lib/python3.10/site-packages/fastapi/routing.py", line 193, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/home/yueyulin/miniconda3/envs/pytorch-env/lib/python3.10/site-packages/starlette/concurrency.py", line 41, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+  File "/home/yueyulin/miniconda3/envs/pytorch-env/lib/python3.10/site-packages/anyio/to_thread.py", line 33, in run_sync
+    return await get_asynclib().run_sync_in_worker_thread(
+  File "/home/yueyulin/miniconda3/envs/pytorch-env/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 877, in run_sync_in_worker_thread
+    return await future
+  File "/home/yueyulin/miniconda3/envs/pytorch-env/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 807, in run
+    result = context.run(func, *args)
+  File "/home/yueyulin/miniconda3/envs/pytorch-env/lib/python3.10/site-packages/chromadb/telemetry/opentelemetry/__init__.py", line 127, in wrapper
+    return f(*args, **kwargs)
+  File "/home/yueyulin/miniconda3/envs/pytorch-env/lib/python3.10/site-packages/chromadb/auth/fastapi.py", line 234, in wrapped
+    return f(*args, **kwargs)
+  File "/home/yueyulin/miniconda3/envs/pytorch-env/lib/python3.10/site-packages/chromadb/server/fastapi/__init__.py", line 408, in create_collection
+    return self._api.create_collection(
+  File "/home/yueyulin/miniconda3/envs/pytorch-env/lib/python3.10/site-packages/chromadb/telemetry/opentelemetry/__init__.py", line 127, in wrapper
+    return f(*args, **kwargs)
+  File "/home/yueyulin/miniconda3/envs/pytorch-env/lib/python3.10/site-packages/chromadb/api/segment.py", line 166, in create_collection
+    coll, created = self._sysdb.create_collection(
+  File "/home/yueyulin/miniconda3/envs/pytorch-env/lib/python3.10/site-packages/chromadb/telemetry/opentelemetry/__init__.py", line 127, in wrapper
+    return f(*args, **kwargs)
+  File "/home/yueyulin/miniconda3/envs/pytorch-env/lib/python3.10/site-packages/chromadb/db/mixins/sysdb.py", line 225, in create_collection
+    raise UniqueConstraintError(f"Collection {name} already exists")
+chromadb.db.base.UniqueConstraintError: Collection chroma_db already exists
+[32mINFO[0m:     [11-05-2024 12:01:53] 127.0.0.1:60054 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 500
+[32mINFO[0m:     [11-05-2024 12:02:04] Shutting down
+[32mINFO[0m:     [11-05-2024 12:02:04] Waiting for application shutdown.
+[32mINFO[0m:     [11-05-2024 12:02:04] Application shutdown complete.
+[32mINFO[0m:     [11-05-2024 12:02:04] Finished server process [[36m139485[0m]
+[33mWARNING[0m:  [11-05-2024 12:04:43] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-05-2024 12:04:43] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-05-2024 12:04:43] Starting component System
+[36mDEBUG[0m:    [11-05-2024 12:04:43] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-05-2024 12:04:43] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [11-05-2024 12:04:43] Starting component SqliteDB
+[36mDEBUG[0m:    [11-05-2024 12:04:43] Starting component Posthog
+[36mDEBUG[0m:    [11-05-2024 12:04:43] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-05-2024 12:04:43] Starting component SegmentAPI
+[32mINFO[0m:     [11-05-2024 12:04:43] Started server process [[36m139858[0m]
+[32mINFO[0m:     [11-05-2024 12:04:43] Waiting for application startup.
+[32mINFO[0m:     [11-05-2024 12:04:43] Application startup complete.
+[32mINFO[0m:     [11-05-2024 12:04:43] Uvicorn running on [1mhttp://localhost:9999[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-05-2024 12:04:48] 127.0.0.1:42478 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 12:04:48] 127.0.0.1:42478 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 12:04:48] 127.0.0.1:42488 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 12:04:48] 127.0.0.1:42488 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 12:04:54] Shutting down
+[32mINFO[0m:     [11-05-2024 12:04:54] Waiting for application shutdown.
+[32mINFO[0m:     [11-05-2024 12:04:54] Application shutdown complete.
+[32mINFO[0m:     [11-05-2024 12:04:54] Finished server process [[36m139858[0m]
+[33mWARNING[0m:  [11-05-2024 12:05:39] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-05-2024 12:05:39] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-05-2024 12:05:39] Starting component System
+[36mDEBUG[0m:    [11-05-2024 12:05:39] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-05-2024 12:05:39] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [11-05-2024 12:05:39] Starting component SqliteDB
+[36mDEBUG[0m:    [11-05-2024 12:05:39] Starting component Posthog
+[36mDEBUG[0m:    [11-05-2024 12:05:39] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-05-2024 12:05:39] Starting component SegmentAPI
+[32mINFO[0m:     [11-05-2024 12:05:39] Started server process [[36m140110[0m]
+[32mINFO[0m:     [11-05-2024 12:05:39] Waiting for application startup.
+[32mINFO[0m:     [11-05-2024 12:05:39] Application startup complete.
+[32mINFO[0m:     [11-05-2024 12:05:39] Uvicorn running on [1mhttp://localhost:9999[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-05-2024 12:05:44] 127.0.0.1:46710 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 12:05:44] 127.0.0.1:46710 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 12:05:44] 127.0.0.1:46726 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 12:05:44] 127.0.0.1:46726 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 12:05:48] Shutting down
+[32mINFO[0m:     [11-05-2024 12:05:48] Waiting for application shutdown.
+[32mINFO[0m:     [11-05-2024 12:05:48] Application shutdown complete.
+[32mINFO[0m:     [11-05-2024 12:05:48] Finished server process [[36m140110[0m]
+[33mWARNING[0m:  [11-05-2024 12:06:00] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-05-2024 12:06:00] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-05-2024 12:06:00] Starting component System
+[36mDEBUG[0m:    [11-05-2024 12:06:00] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-05-2024 12:06:00] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [11-05-2024 12:06:00] Starting component SqliteDB
+[36mDEBUG[0m:    [11-05-2024 12:06:01] Starting component Posthog
+[36mDEBUG[0m:    [11-05-2024 12:06:01] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-05-2024 12:06:01] Starting component SegmentAPI
+[32mINFO[0m:     [11-05-2024 12:06:01] Started server process [[36m140350[0m]
+[32mINFO[0m:     [11-05-2024 12:06:01] Waiting for application startup.
+[32mINFO[0m:     [11-05-2024 12:06:01] Application startup complete.
+[32mINFO[0m:     [11-05-2024 12:06:01] Uvicorn running on [1mhttp://localhost:9999[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-05-2024 12:06:05] 127.0.0.1:39440 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 12:06:05] 127.0.0.1:39440 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 12:06:05] 127.0.0.1:39450 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 12:06:05] 127.0.0.1:39450 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 12:06:05] 127.0.0.1:39450 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 12:06:11] Shutting down
+[32mINFO[0m:     [11-05-2024 12:06:11] Waiting for application shutdown.
+[32mINFO[0m:     [11-05-2024 12:06:11] Application shutdown complete.
+[32mINFO[0m:     [11-05-2024 12:06:11] Finished server process [[36m140350[0m]
+[33mWARNING[0m:  [11-05-2024 12:06:39] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-05-2024 12:06:39] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-05-2024 12:06:39] Starting component System
+[36mDEBUG[0m:    [11-05-2024 12:06:39] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-05-2024 12:06:39] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [11-05-2024 12:06:39] Starting component SqliteDB
+[36mDEBUG[0m:    [11-05-2024 12:06:39] Starting component Posthog
+[36mDEBUG[0m:    [11-05-2024 12:06:39] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-05-2024 12:06:39] Starting component SegmentAPI
+[32mINFO[0m:     [11-05-2024 12:06:39] Started server process [[36m140597[0m]
+[32mINFO[0m:     [11-05-2024 12:06:39] Waiting for application startup.
+[32mINFO[0m:     [11-05-2024 12:06:39] Application startup complete.
+[32mINFO[0m:     [11-05-2024 12:06:39] Uvicorn running on [1mhttp://localhost:9999[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-05-2024 12:06:44] 127.0.0.1:37340 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 12:06:44] 127.0.0.1:37340 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 12:06:44] 127.0.0.1:37342 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 12:06:44] 127.0.0.1:37342 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 12:06:50] Shutting down
+[32mINFO[0m:     [11-05-2024 12:06:50] Waiting for application shutdown.
+[32mINFO[0m:     [11-05-2024 12:06:50] Application shutdown complete.
+[32mINFO[0m:     [11-05-2024 12:06:50] Finished server process [[36m140597[0m]
+[33mWARNING[0m:  [11-05-2024 14:26:23] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-05-2024 14:26:23] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-05-2024 14:26:23] Starting component System
+[36mDEBUG[0m:    [11-05-2024 14:26:23] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-05-2024 14:26:23] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [11-05-2024 14:26:23] Starting component SqliteDB
+[36mDEBUG[0m:    [11-05-2024 14:26:23] Starting component Posthog
+[36mDEBUG[0m:    [11-05-2024 14:26:23] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-05-2024 14:26:23] Starting component SegmentAPI
+[32mINFO[0m:     [11-05-2024 14:26:23] Started server process [[36m147303[0m]
+[32mINFO[0m:     [11-05-2024 14:26:23] Waiting for application startup.
+[32mINFO[0m:     [11-05-2024 14:26:23] Application startup complete.
+[32mINFO[0m:     [11-05-2024 14:26:23] Uvicorn running on [1mhttp://localhost:9999[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-05-2024 14:26:28] 127.0.0.1:52334 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:26:28] 127.0.0.1:52334 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:26:28] 127.0.0.1:52350 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:26:28] 127.0.0.1:52350 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:26:54] Shutting down
+[32mINFO[0m:     [11-05-2024 14:26:54] Waiting for application shutdown.
+[32mINFO[0m:     [11-05-2024 14:26:54] Application shutdown complete.
+[32mINFO[0m:     [11-05-2024 14:26:54] Finished server process [[36m147303[0m]
+[33mWARNING[0m:  [11-05-2024 14:30:00] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-05-2024 14:30:00] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-05-2024 14:30:00] Starting component System
+[36mDEBUG[0m:    [11-05-2024 14:30:00] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-05-2024 14:30:00] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [11-05-2024 14:30:00] Starting component SqliteDB
+[36mDEBUG[0m:    [11-05-2024 14:30:00] Starting component Posthog
+[36mDEBUG[0m:    [11-05-2024 14:30:00] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-05-2024 14:30:00] Starting component SegmentAPI
+[32mINFO[0m:     [11-05-2024 14:30:00] Started server process [[36m147882[0m]
+[32mINFO[0m:     [11-05-2024 14:30:00] Waiting for application startup.
+[32mINFO[0m:     [11-05-2024 14:30:00] Application startup complete.
+[32mINFO[0m:     [11-05-2024 14:30:00] Uvicorn running on [1mhttp://localhost:9999[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-05-2024 14:30:05] 127.0.0.1:52846 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:30:05] 127.0.0.1:52846 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:30:05] 127.0.0.1:52850 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:30:05] 127.0.0.1:52850 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:30:28] Shutting down
+[32mINFO[0m:     [11-05-2024 14:30:28] Waiting for application shutdown.
+[32mINFO[0m:     [11-05-2024 14:30:28] Application shutdown complete.
+[32mINFO[0m:     [11-05-2024 14:30:28] Finished server process [[36m147882[0m]
+[33mWARNING[0m:  [11-05-2024 14:30:41] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-05-2024 14:30:41] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-05-2024 14:30:41] Starting component System
+[36mDEBUG[0m:    [11-05-2024 14:30:41] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-05-2024 14:30:41] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [11-05-2024 14:30:41] Starting component SqliteDB
+[36mDEBUG[0m:    [11-05-2024 14:30:41] Starting component Posthog
+[36mDEBUG[0m:    [11-05-2024 14:30:41] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-05-2024 14:30:41] Starting component SegmentAPI
+[32mINFO[0m:     [11-05-2024 14:30:41] Started server process [[36m148372[0m]
+[32mINFO[0m:     [11-05-2024 14:30:41] Waiting for application startup.
+[32mINFO[0m:     [11-05-2024 14:30:41] Application startup complete.
+[32mINFO[0m:     [11-05-2024 14:30:41] Uvicorn running on [1mhttp://localhost:9999[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-05-2024 14:30:45] 127.0.0.1:59028 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:30:45] 127.0.0.1:59028 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:30:45] 127.0.0.1:59034 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:30:45] 127.0.0.1:59034 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:31:14] Shutting down
+[32mINFO[0m:     [11-05-2024 14:31:14] Waiting for application shutdown.
+[32mINFO[0m:     [11-05-2024 14:31:14] Application shutdown complete.
+[32mINFO[0m:     [11-05-2024 14:31:14] Finished server process [[36m148372[0m]
+[33mWARNING[0m:  [11-05-2024 14:31:46] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-05-2024 14:31:46] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-05-2024 14:31:46] Starting component System
+[36mDEBUG[0m:    [11-05-2024 14:31:46] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-05-2024 14:31:46] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [11-05-2024 14:31:46] Starting component SqliteDB
+[36mDEBUG[0m:    [11-05-2024 14:31:46] Starting component Posthog
+[36mDEBUG[0m:    [11-05-2024 14:31:46] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-05-2024 14:31:46] Starting component SegmentAPI
+[32mINFO[0m:     [11-05-2024 14:31:46] Started server process [[36m148864[0m]
+[32mINFO[0m:     [11-05-2024 14:31:46] Waiting for application startup.
+[32mINFO[0m:     [11-05-2024 14:31:46] Application startup complete.
+[32mINFO[0m:     [11-05-2024 14:31:46] Uvicorn running on [1mhttp://localhost:9999[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-05-2024 14:31:51] 127.0.0.1:55360 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:31:51] 127.0.0.1:55360 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:31:51] 127.0.0.1:55376 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:31:51] 127.0.0.1:55376 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:32:58] Shutting down
+[32mINFO[0m:     [11-05-2024 14:32:58] Waiting for application shutdown.
+[32mINFO[0m:     [11-05-2024 14:32:58] Application shutdown complete.
+[32mINFO[0m:     [11-05-2024 14:32:58] Finished server process [[36m148864[0m]
+[33mWARNING[0m:  [11-05-2024 14:40:45] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-05-2024 14:40:45] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-05-2024 14:40:45] Starting component System
+[36mDEBUG[0m:    [11-05-2024 14:40:45] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-05-2024 14:40:45] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [11-05-2024 14:40:45] Starting component SqliteDB
+[36mDEBUG[0m:    [11-05-2024 14:40:45] Starting component Posthog
+[36mDEBUG[0m:    [11-05-2024 14:40:45] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-05-2024 14:40:45] Starting component SegmentAPI
+[32mINFO[0m:     [11-05-2024 14:40:45] Started server process [[36m149812[0m]
+[32mINFO[0m:     [11-05-2024 14:40:45] Waiting for application startup.
+[32mINFO[0m:     [11-05-2024 14:40:45] Application startup complete.
+[32mINFO[0m:     [11-05-2024 14:40:45] Uvicorn running on [1mhttp://localhost:9999[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-05-2024 14:40:50] 127.0.0.1:39454 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:40:50] 127.0.0.1:39454 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:40:50] 127.0.0.1:39456 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:40:50] 127.0.0.1:39456 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:42:03] Shutting down
+[32mINFO[0m:     [11-05-2024 14:42:03] Waiting for application shutdown.
+[32mINFO[0m:     [11-05-2024 14:42:03] Application shutdown complete.
+[32mINFO[0m:     [11-05-2024 14:42:03] Finished server process [[36m149812[0m]
+[33mWARNING[0m:  [11-05-2024 14:45:27] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-05-2024 14:45:27] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-05-2024 14:45:27] Starting component System
+[36mDEBUG[0m:    [11-05-2024 14:45:27] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-05-2024 14:45:27] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [11-05-2024 14:45:27] Starting component SqliteDB
+[36mDEBUG[0m:    [11-05-2024 14:45:27] Starting component Posthog
+[36mDEBUG[0m:    [11-05-2024 14:45:27] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-05-2024 14:45:27] Starting component SegmentAPI
+[32mINFO[0m:     [11-05-2024 14:45:27] Started server process [[36m150547[0m]
+[32mINFO[0m:     [11-05-2024 14:45:27] Waiting for application startup.
+[32mINFO[0m:     [11-05-2024 14:45:27] Application startup complete.
+[32mINFO[0m:     [11-05-2024 14:45:27] Uvicorn running on [1mhttp://localhost:9999[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-05-2024 14:45:32] 127.0.0.1:35938 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:45:32] 127.0.0.1:35938 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:45:32] 127.0.0.1:35944 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:45:32] 127.0.0.1:35944 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:46:42] Shutting down
+[32mINFO[0m:     [11-05-2024 14:46:43] Waiting for application shutdown.
+[32mINFO[0m:     [11-05-2024 14:46:43] Application shutdown complete.
+[32mINFO[0m:     [11-05-2024 14:46:43] Finished server process [[36m150547[0m]
+[33mWARNING[0m:  [11-05-2024 14:50:44] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-05-2024 14:50:44] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-05-2024 14:50:44] Starting component System
+[36mDEBUG[0m:    [11-05-2024 14:50:44] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-05-2024 14:50:44] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [11-05-2024 14:50:44] Starting component SqliteDB
+[36mDEBUG[0m:    [11-05-2024 14:50:44] Starting component Posthog
+[36mDEBUG[0m:    [11-05-2024 14:50:44] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-05-2024 14:50:44] Starting component SegmentAPI
+[32mINFO[0m:     [11-05-2024 14:50:44] Started server process [[36m151403[0m]
+[32mINFO[0m:     [11-05-2024 14:50:44] Waiting for application startup.
+[32mINFO[0m:     [11-05-2024 14:50:44] Application startup complete.
+[32mINFO[0m:     [11-05-2024 14:50:44] Uvicorn running on [1mhttp://localhost:9999[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-05-2024 14:50:49] 127.0.0.1:41888 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:50:49] 127.0.0.1:41888 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:50:49] 127.0.0.1:41900 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:50:49] 127.0.0.1:41900 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:52:58] Shutting down
+[32mINFO[0m:     [11-05-2024 14:52:58] Waiting for application shutdown.
+[32mINFO[0m:     [11-05-2024 14:52:58] Application shutdown complete.
+[32mINFO[0m:     [11-05-2024 14:52:58] Finished server process [[36m151403[0m]
+[33mWARNING[0m:  [11-05-2024 14:55:14] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-05-2024 14:55:14] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-05-2024 14:55:14] Starting component System
+[36mDEBUG[0m:    [11-05-2024 14:55:14] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-05-2024 14:55:14] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [11-05-2024 14:55:14] Starting component SqliteDB
+[36mDEBUG[0m:    [11-05-2024 14:55:14] Starting component Posthog
+[36mDEBUG[0m:    [11-05-2024 14:55:14] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-05-2024 14:55:14] Starting component SegmentAPI
+[32mINFO[0m:     [11-05-2024 14:55:14] Started server process [[36m152115[0m]
+[32mINFO[0m:     [11-05-2024 14:55:14] Waiting for application startup.
+[32mINFO[0m:     [11-05-2024 14:55:14] Application startup complete.
+[32mINFO[0m:     [11-05-2024 14:55:14] Uvicorn running on [1mhttp://localhost:9999[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-05-2024 14:55:19] 127.0.0.1:47878 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:55:19] 127.0.0.1:47878 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:55:19] 127.0.0.1:47886 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:55:19] 127.0.0.1:47886 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:56:09] Shutting down
+[32mINFO[0m:     [11-05-2024 14:56:09] Waiting for application shutdown.
+[32mINFO[0m:     [11-05-2024 14:56:09] Application shutdown complete.
+[32mINFO[0m:     [11-05-2024 14:56:09] Finished server process [[36m152115[0m]
+[33mWARNING[0m:  [11-05-2024 14:57:31] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-05-2024 14:57:31] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-05-2024 14:57:31] Starting component System
+[36mDEBUG[0m:    [11-05-2024 14:57:31] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-05-2024 14:57:31] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [11-05-2024 14:57:31] Starting component SqliteDB
+[36mDEBUG[0m:    [11-05-2024 14:57:31] Starting component Posthog
+[36mDEBUG[0m:    [11-05-2024 14:57:31] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-05-2024 14:57:31] Starting component SegmentAPI
+[32mINFO[0m:     [11-05-2024 14:57:32] Started server process [[36m152937[0m]
+[32mINFO[0m:     [11-05-2024 14:57:32] Waiting for application startup.
+[32mINFO[0m:     [11-05-2024 14:57:32] Application startup complete.
+[32mINFO[0m:     [11-05-2024 14:57:32] Uvicorn running on [1mhttp://localhost:9999[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-05-2024 14:57:36] 127.0.0.1:54156 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:57:36] 127.0.0.1:54156 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:57:36] 127.0.0.1:54162 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:57:36] 127.0.0.1:54162 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:58:24] Shutting down
+[32mINFO[0m:     [11-05-2024 14:58:24] Waiting for application shutdown.
+[32mINFO[0m:     [11-05-2024 14:58:24] Application shutdown complete.
+[32mINFO[0m:     [11-05-2024 14:58:24] Finished server process [[36m152937[0m]
+[33mWARNING[0m:  [11-05-2024 14:59:40] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-05-2024 14:59:40] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-05-2024 14:59:40] Starting component System
+[36mDEBUG[0m:    [11-05-2024 14:59:40] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-05-2024 14:59:40] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [11-05-2024 14:59:40] Starting component SqliteDB
+[36mDEBUG[0m:    [11-05-2024 14:59:40] Starting component Posthog
+[36mDEBUG[0m:    [11-05-2024 14:59:40] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-05-2024 14:59:40] Starting component SegmentAPI
+[32mINFO[0m:     [11-05-2024 14:59:40] Started server process [[36m153559[0m]
+[32mINFO[0m:     [11-05-2024 14:59:40] Waiting for application startup.
+[32mINFO[0m:     [11-05-2024 14:59:40] Application startup complete.
+[32mINFO[0m:     [11-05-2024 14:59:40] Uvicorn running on [1mhttp://localhost:9999[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-05-2024 14:59:45] 127.0.0.1:45072 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:59:45] 127.0.0.1:45072 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:59:45] 127.0.0.1:45074 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 14:59:45] 127.0.0.1:45074 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:01:32] Shutting down
+[32mINFO[0m:     [11-05-2024 15:01:32] Waiting for application shutdown.
+[32mINFO[0m:     [11-05-2024 15:01:32] Application shutdown complete.
+[32mINFO[0m:     [11-05-2024 15:01:32] Finished server process [[36m153559[0m]
+[33mWARNING[0m:  [11-05-2024 15:06:55] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-05-2024 15:06:55] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-05-2024 15:06:55] Starting component System
+[36mDEBUG[0m:    [11-05-2024 15:06:55] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-05-2024 15:06:55] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [11-05-2024 15:06:55] Starting component SqliteDB
+[36mDEBUG[0m:    [11-05-2024 15:06:55] Starting component Posthog
+[36mDEBUG[0m:    [11-05-2024 15:06:55] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-05-2024 15:06:55] Starting component SegmentAPI
+[32mINFO[0m:     [11-05-2024 15:06:55] Started server process [[36m154543[0m]
+[32mINFO[0m:     [11-05-2024 15:06:55] Waiting for application startup.
+[32mINFO[0m:     [11-05-2024 15:06:55] Application startup complete.
+[32mINFO[0m:     [11-05-2024 15:06:55] Uvicorn running on [1mhttp://localhost:9999[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-05-2024 15:07:00] 127.0.0.1:53598 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:07:00] 127.0.0.1:53598 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:07:00] 127.0.0.1:53612 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:07:00] 127.0.0.1:53612 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:09:34] Shutting down
+[32mINFO[0m:     [11-05-2024 15:09:34] Waiting for application shutdown.
+[32mINFO[0m:     [11-05-2024 15:09:34] Application shutdown complete.
+[32mINFO[0m:     [11-05-2024 15:09:34] Finished server process [[36m154543[0m]
+[33mWARNING[0m:  [11-05-2024 15:09:48] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-05-2024 15:09:48] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-05-2024 15:09:48] Starting component System
+[36mDEBUG[0m:    [11-05-2024 15:09:48] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-05-2024 15:09:48] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [11-05-2024 15:09:48] Starting component SqliteDB
+[36mDEBUG[0m:    [11-05-2024 15:09:48] Starting component Posthog
+[36mDEBUG[0m:    [11-05-2024 15:09:48] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-05-2024 15:09:48] Starting component SegmentAPI
+[32mINFO[0m:     [11-05-2024 15:09:48] Started server process [[36m155280[0m]
+[32mINFO[0m:     [11-05-2024 15:09:48] Waiting for application startup.
+[32mINFO[0m:     [11-05-2024 15:09:48] Application startup complete.
+[32mINFO[0m:     [11-05-2024 15:09:48] Uvicorn running on [1mhttp://localhost:9999[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-05-2024 15:09:53] 127.0.0.1:41366 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:09:53] 127.0.0.1:41366 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:09:53] 127.0.0.1:41376 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:09:53] 127.0.0.1:41376 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:11:38] Shutting down
+[32mINFO[0m:     [11-05-2024 15:11:38] Waiting for application shutdown.
+[32mINFO[0m:     [11-05-2024 15:11:38] Application shutdown complete.
+[32mINFO[0m:     [11-05-2024 15:11:38] Finished server process [[36m155280[0m]
+[33mWARNING[0m:  [11-05-2024 15:13:17] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-05-2024 15:13:17] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-05-2024 15:13:17] Starting component System
+[36mDEBUG[0m:    [11-05-2024 15:13:17] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-05-2024 15:13:17] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [11-05-2024 15:13:17] Starting component SqliteDB
+[36mDEBUG[0m:    [11-05-2024 15:13:17] Starting component Posthog
+[36mDEBUG[0m:    [11-05-2024 15:13:17] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-05-2024 15:13:17] Starting component SegmentAPI
+[32mINFO[0m:     [11-05-2024 15:13:17] Started server process [[36m156122[0m]
+[32mINFO[0m:     [11-05-2024 15:13:17] Waiting for application startup.
+[32mINFO[0m:     [11-05-2024 15:13:17] Application startup complete.
+[32mINFO[0m:     [11-05-2024 15:13:17] Uvicorn running on [1mhttp://localhost:9999[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-05-2024 15:13:22] 127.0.0.1:59050 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:13:22] 127.0.0.1:59050 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:13:22] 127.0.0.1:59052 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:13:22] 127.0.0.1:59052 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:14:45] Shutting down
+[32mINFO[0m:     [11-05-2024 15:14:45] Waiting for application shutdown.
+[32mINFO[0m:     [11-05-2024 15:14:45] Application shutdown complete.
+[32mINFO[0m:     [11-05-2024 15:14:45] Finished server process [[36m156122[0m]
+[33mWARNING[0m:  [11-05-2024 15:16:17] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-05-2024 15:16:17] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-05-2024 15:16:17] Starting component System
+[36mDEBUG[0m:    [11-05-2024 15:16:17] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-05-2024 15:16:17] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [11-05-2024 15:16:17] Starting component SqliteDB
+[36mDEBUG[0m:    [11-05-2024 15:16:17] Starting component Posthog
+[36mDEBUG[0m:    [11-05-2024 15:16:17] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-05-2024 15:16:17] Starting component SegmentAPI
+[32mINFO[0m:     [11-05-2024 15:16:17] Started server process [[36m157125[0m]
+[32mINFO[0m:     [11-05-2024 15:16:17] Waiting for application startup.
+[32mINFO[0m:     [11-05-2024 15:16:17] Application startup complete.
+[32mINFO[0m:     [11-05-2024 15:16:17] Uvicorn running on [1mhttp://localhost:9999[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-05-2024 15:16:22] 127.0.0.1:33752 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:16:22] 127.0.0.1:33752 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:16:22] 127.0.0.1:33756 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:16:22] 127.0.0.1:33756 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:17:23] Shutting down
+[32mINFO[0m:     [11-05-2024 15:17:23] Waiting for application shutdown.
+[32mINFO[0m:     [11-05-2024 15:17:23] Application shutdown complete.
+[32mINFO[0m:     [11-05-2024 15:17:23] Finished server process [[36m157125[0m]
+[33mWARNING[0m:  [11-05-2024 15:17:52] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-05-2024 15:17:52] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-05-2024 15:17:52] Starting component System
+[36mDEBUG[0m:    [11-05-2024 15:17:52] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-05-2024 15:17:52] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [11-05-2024 15:17:52] Starting component SqliteDB
+[36mDEBUG[0m:    [11-05-2024 15:17:52] Starting component Posthog
+[36mDEBUG[0m:    [11-05-2024 15:17:52] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-05-2024 15:17:52] Starting component SegmentAPI
+[32mINFO[0m:     [11-05-2024 15:17:52] Started server process [[36m158050[0m]
+[32mINFO[0m:     [11-05-2024 15:17:52] Waiting for application startup.
+[32mINFO[0m:     [11-05-2024 15:17:52] Application startup complete.
+[32mINFO[0m:     [11-05-2024 15:17:52] Uvicorn running on [1mhttp://localhost:9999[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-05-2024 15:17:56] 127.0.0.1:33898 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:17:56] 127.0.0.1:33898 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:17:56] 127.0.0.1:33902 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:17:56] 127.0.0.1:33902 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:18:46] Shutting down
+[32mINFO[0m:     [11-05-2024 15:18:46] Waiting for application shutdown.
+[32mINFO[0m:     [11-05-2024 15:18:46] Application shutdown complete.
+[32mINFO[0m:     [11-05-2024 15:18:46] Finished server process [[36m158050[0m]
+[33mWARNING[0m:  [11-05-2024 15:24:39] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-05-2024 15:24:39] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-05-2024 15:24:39] Starting component System
+[36mDEBUG[0m:    [11-05-2024 15:24:39] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-05-2024 15:24:39] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [11-05-2024 15:24:39] Starting component SqliteDB
+[36mDEBUG[0m:    [11-05-2024 15:24:39] Starting component Posthog
+[36mDEBUG[0m:    [11-05-2024 15:24:39] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-05-2024 15:24:39] Starting component SegmentAPI
+[32mINFO[0m:     [11-05-2024 15:24:39] Started server process [[36m159622[0m]
+[32mINFO[0m:     [11-05-2024 15:24:39] Waiting for application startup.
+[32mINFO[0m:     [11-05-2024 15:24:39] Application startup complete.
+[32mINFO[0m:     [11-05-2024 15:24:39] Uvicorn running on [1mhttp://localhost:9999[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-05-2024 15:24:43] 127.0.0.1:54996 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:24:43] 127.0.0.1:54996 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:24:43] 127.0.0.1:55002 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:24:43] 127.0.0.1:55002 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:25:16] 127.0.0.1:56800 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:25:16] 127.0.0.1:56800 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:25:16] 127.0.0.1:56814 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:25:16] 127.0.0.1:56814 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[36mDEBUG[0m:    [11-05-2024 15:25:16] Starting component PersistentLocalHnswSegment
+[32mINFO[0m:     [11-05-2024 15:25:16] 127.0.0.1:56814 - "POST /api/v1/collections/70183810-c87a-41a5-995e-2ae242eb168a/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 15:25:16] 127.0.0.1:56816 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:25:16] 127.0.0.1:56816 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:25:16] 127.0.0.1:56832 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:25:16] 127.0.0.1:56832 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:25:16] 127.0.0.1:56832 - "POST /api/v1/collections/70183810-c87a-41a5-995e-2ae242eb168a/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 15:25:16] 127.0.0.1:56842 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:25:16] 127.0.0.1:56842 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:25:16] 127.0.0.1:56858 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:25:16] 127.0.0.1:56858 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:25:16] 127.0.0.1:56858 - "POST /api/v1/collections/70183810-c87a-41a5-995e-2ae242eb168a/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 15:30:05] Shutting down
+[32mINFO[0m:     [11-05-2024 15:30:05] Waiting for application shutdown.
+[32mINFO[0m:     [11-05-2024 15:30:05] Application shutdown complete.
+[32mINFO[0m:     [11-05-2024 15:30:05] Finished server process [[36m159622[0m]
+[33mWARNING[0m:  [11-05-2024 15:47:27] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-05-2024 15:47:27] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-05-2024 15:47:27] Starting component System
+[36mDEBUG[0m:    [11-05-2024 15:47:27] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-05-2024 15:47:27] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [11-05-2024 15:47:27] Starting component SqliteDB
+[36mDEBUG[0m:    [11-05-2024 15:47:27] Starting component Posthog
+[36mDEBUG[0m:    [11-05-2024 15:47:27] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-05-2024 15:47:27] Starting component SegmentAPI
+[32mINFO[0m:     [11-05-2024 15:47:27] Started server process [[36m161148[0m]
+[32mINFO[0m:     [11-05-2024 15:47:27] Waiting for application startup.
+[32mINFO[0m:     [11-05-2024 15:47:27] Application startup complete.
+[32mINFO[0m:     [11-05-2024 15:47:27] Uvicorn running on [1mhttp://localhost:9999[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-05-2024 15:47:31] 127.0.0.1:43366 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:47:31] 127.0.0.1:43366 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:47:31] 127.0.0.1:43380 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:47:31] 127.0.0.1:43380 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:51:04] 127.0.0.1:36750 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:51:04] 127.0.0.1:36750 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:51:04] 127.0.0.1:36752 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:51:04] 127.0.0.1:36752 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[36mDEBUG[0m:    [11-05-2024 15:51:04] Starting component PersistentLocalHnswSegment
+[32mINFO[0m:     [11-05-2024 15:51:04] 127.0.0.1:36752 - "POST /api/v1/collections/70183810-c87a-41a5-995e-2ae242eb168a/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 15:51:04] 127.0.0.1:36754 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:51:04] 127.0.0.1:36754 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:51:04] 127.0.0.1:36768 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:51:04] 127.0.0.1:36768 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:51:04] 127.0.0.1:36768 - "POST /api/v1/collections/70183810-c87a-41a5-995e-2ae242eb168a/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 15:51:04] 127.0.0.1:36778 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:51:04] 127.0.0.1:36778 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:51:04] 127.0.0.1:36790 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:51:04] 127.0.0.1:36790 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:51:04] 127.0.0.1:36790 - "POST /api/v1/collections/70183810-c87a-41a5-995e-2ae242eb168a/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 15:51:04] 127.0.0.1:36806 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:51:04] 127.0.0.1:36806 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:51:04] 127.0.0.1:36816 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:51:04] 127.0.0.1:36816 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:51:04] 127.0.0.1:36816 - "POST /api/v1/collections/70183810-c87a-41a5-995e-2ae242eb168a/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 15:51:04] 127.0.0.1:36826 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:51:04] 127.0.0.1:36826 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:51:04] 127.0.0.1:36836 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:51:04] 127.0.0.1:36836 - "POST /api/v1/collections/70183810-c87a-41a5-995e-2ae242eb168a/query HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:55:33] 127.0.0.1:58376 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:55:33] 127.0.0.1:58376 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:55:33] 127.0.0.1:58378 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:55:33] 127.0.0.1:58378 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:55:33] 127.0.0.1:58378 - "POST /api/v1/collections/70183810-c87a-41a5-995e-2ae242eb168a/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 15:55:33] 127.0.0.1:58380 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:55:33] 127.0.0.1:58380 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:55:33] 127.0.0.1:58394 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:55:33] 127.0.0.1:58394 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:55:33] 127.0.0.1:58394 - "POST /api/v1/collections/70183810-c87a-41a5-995e-2ae242eb168a/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 15:55:33] 127.0.0.1:58408 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:55:33] 127.0.0.1:58408 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:55:33] 127.0.0.1:58410 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:55:33] 127.0.0.1:58410 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:55:33] 127.0.0.1:58410 - "POST /api/v1/collections/70183810-c87a-41a5-995e-2ae242eb168a/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 15:55:33] 127.0.0.1:58424 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:55:33] 127.0.0.1:58424 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:55:33] 127.0.0.1:58426 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:55:33] 127.0.0.1:58426 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:55:33] 127.0.0.1:58426 - "POST /api/v1/collections/70183810-c87a-41a5-995e-2ae242eb168a/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 15:55:33] 127.0.0.1:58430 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:55:33] 127.0.0.1:58430 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:55:33] 127.0.0.1:58434 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:55:33] 127.0.0.1:58434 - "POST /api/v1/collections/70183810-c87a-41a5-995e-2ae242eb168a/query HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:56:56] 127.0.0.1:45000 - "GET / HTTP/1.1" 404
+[32mINFO[0m:     [11-05-2024 15:56:56] 127.0.0.1:45000 - "GET /favicon.ico HTTP/1.1" 404
+[32mINFO[0m:     [11-05-2024 15:57:56] 127.0.0.1:44326 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:57:56] 127.0.0.1:44326 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:57:56] 127.0.0.1:44328 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:57:56] 127.0.0.1:44328 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:57:56] 127.0.0.1:44328 - "POST /api/v1/collections/70183810-c87a-41a5-995e-2ae242eb168a/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 15:57:56] 127.0.0.1:44334 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:57:56] 127.0.0.1:44334 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:57:56] 127.0.0.1:44344 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:57:56] 127.0.0.1:44344 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:57:56] 127.0.0.1:44344 - "POST /api/v1/collections/70183810-c87a-41a5-995e-2ae242eb168a/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 15:57:56] 127.0.0.1:44360 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:57:56] 127.0.0.1:44360 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:57:56] 127.0.0.1:44366 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:57:56] 127.0.0.1:44366 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:57:56] 127.0.0.1:44366 - "POST /api/v1/collections/70183810-c87a-41a5-995e-2ae242eb168a/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 15:57:56] 127.0.0.1:44370 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:57:56] 127.0.0.1:44370 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:57:56] 127.0.0.1:44378 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:57:56] 127.0.0.1:44378 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:57:56] 127.0.0.1:44378 - "POST /api/v1/collections/70183810-c87a-41a5-995e-2ae242eb168a/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 15:57:56] 127.0.0.1:44386 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:57:56] 127.0.0.1:44386 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:57:56] 127.0.0.1:44388 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:57:56] 127.0.0.1:44388 - "POST /api/v1/collections/70183810-c87a-41a5-995e-2ae242eb168a/query HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:58:36] 127.0.0.1:40966 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:58:36] 127.0.0.1:40966 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:58:36] 127.0.0.1:40968 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:58:36] 127.0.0.1:40968 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:58:36] 127.0.0.1:40968 - "POST /api/v1/collections/70183810-c87a-41a5-995e-2ae242eb168a/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 15:58:36] 127.0.0.1:40972 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:58:36] 127.0.0.1:40972 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:58:36] 127.0.0.1:40982 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:58:36] 127.0.0.1:40982 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:58:36] 127.0.0.1:40982 - "POST /api/v1/collections/70183810-c87a-41a5-995e-2ae242eb168a/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 15:58:36] 127.0.0.1:40988 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:58:36] 127.0.0.1:40988 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:58:36] 127.0.0.1:41002 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:58:36] 127.0.0.1:41002 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:58:36] 127.0.0.1:41002 - "POST /api/v1/collections/70183810-c87a-41a5-995e-2ae242eb168a/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 15:58:36] 127.0.0.1:41008 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:58:36] 127.0.0.1:41008 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:58:36] 127.0.0.1:41014 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:58:36] 127.0.0.1:41014 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:58:36] 127.0.0.1:41014 - "POST /api/v1/collections/70183810-c87a-41a5-995e-2ae242eb168a/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 15:58:36] 127.0.0.1:41016 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:58:36] 127.0.0.1:41016 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:58:36] 127.0.0.1:41026 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:58:36] 127.0.0.1:41026 - "POST /api/v1/collections/70183810-c87a-41a5-995e-2ae242eb168a/query HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:59:00] 127.0.0.1:37222 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:59:00] 127.0.0.1:37222 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:59:00] 127.0.0.1:37234 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:59:00] 127.0.0.1:37234 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:59:00] 127.0.0.1:37234 - "POST /api/v1/collections/70183810-c87a-41a5-995e-2ae242eb168a/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 15:59:00] 127.0.0.1:37248 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:59:00] 127.0.0.1:37248 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:59:00] 127.0.0.1:37254 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:59:01] 127.0.0.1:37254 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:59:01] 127.0.0.1:37254 - "POST /api/v1/collections/70183810-c87a-41a5-995e-2ae242eb168a/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 15:59:01] 127.0.0.1:37258 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:59:01] 127.0.0.1:37258 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:59:01] 127.0.0.1:37262 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:59:01] 127.0.0.1:37262 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:59:01] 127.0.0.1:37262 - "POST /api/v1/collections/70183810-c87a-41a5-995e-2ae242eb168a/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 15:59:01] 127.0.0.1:37274 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:59:01] 127.0.0.1:37274 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:59:01] 127.0.0.1:37286 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:59:01] 127.0.0.1:37286 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:59:01] 127.0.0.1:37286 - "POST /api/v1/collections/70183810-c87a-41a5-995e-2ae242eb168a/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 15:59:01] 127.0.0.1:37294 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:59:01] 127.0.0.1:37294 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:59:01] 127.0.0.1:37310 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 15:59:01] 127.0.0.1:37310 - "POST /api/v1/collections/70183810-c87a-41a5-995e-2ae242eb168a/query HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:03:10] Shutting down
+[32mINFO[0m:     [11-05-2024 16:03:10] Waiting for application shutdown.
+[32mINFO[0m:     [11-05-2024 16:03:10] Application shutdown complete.
+[32mINFO[0m:     [11-05-2024 16:03:10] Finished server process [[36m161148[0m]
+[33mWARNING[0m:  [11-05-2024 16:06:49] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-05-2024 16:06:49] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-05-2024 16:06:49] Starting component System
+[36mDEBUG[0m:    [11-05-2024 16:06:49] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-05-2024 16:06:49] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [11-05-2024 16:06:49] Starting component SqliteDB
+[36mDEBUG[0m:    [11-05-2024 16:06:49] Starting component Posthog
+[36mDEBUG[0m:    [11-05-2024 16:06:49] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-05-2024 16:06:49] Starting component SegmentAPI
+[32mINFO[0m:     [11-05-2024 16:06:49] Started server process [[36m163893[0m]
+[32mINFO[0m:     [11-05-2024 16:06:49] Waiting for application startup.
+[32mINFO[0m:     [11-05-2024 16:06:49] Application startup complete.
+[32mINFO[0m:     [11-05-2024 16:06:49] Uvicorn running on [1mhttp://localhost:9999[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-05-2024 16:06:54] 127.0.0.1:49320 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:06:54] 127.0.0.1:49320 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:06:54] 127.0.0.1:49326 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:06:54] 127.0.0.1:49326 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:06:54] 127.0.0.1:49326 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[33mWARNING[0m:  [11-05-2024 16:08:11] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-05-2024 16:08:12] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-05-2024 16:08:12] Starting component System
+[36mDEBUG[0m:    [11-05-2024 16:08:12] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-05-2024 16:08:12] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [11-05-2024 16:08:12] Starting component SqliteDB
+[36mDEBUG[0m:    [11-05-2024 16:08:12] Starting component Posthog
+[36mDEBUG[0m:    [11-05-2024 16:08:12] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-05-2024 16:08:12] Starting component SegmentAPI
+[32mINFO[0m:     [11-05-2024 16:08:12] Started server process [[36m164712[0m]
+[32mINFO[0m:     [11-05-2024 16:08:12] Waiting for application startup.
+[32mINFO[0m:     [11-05-2024 16:08:12] Application startup complete.
+[32mINFO[0m:     [11-05-2024 16:08:12] Uvicorn running on [1mhttp://localhost:9999[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-05-2024 16:08:16] 127.0.0.1:59490 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:08:16] 127.0.0.1:59490 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:08:16] 127.0.0.1:59492 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:08:16] 127.0.0.1:59492 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:08:28] Shutting down
+[32mINFO[0m:     [11-05-2024 16:08:28] Waiting for application shutdown.
+[32mINFO[0m:     [11-05-2024 16:08:28] Application shutdown complete.
+[32mINFO[0m:     [11-05-2024 16:08:28] Finished server process [[36m164712[0m]
+[33mWARNING[0m:  [11-05-2024 16:10:14] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-05-2024 16:10:14] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-05-2024 16:10:14] Starting component System
+[36mDEBUG[0m:    [11-05-2024 16:10:14] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-05-2024 16:10:14] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [11-05-2024 16:10:14] Starting component SqliteDB
+[36mDEBUG[0m:    [11-05-2024 16:10:14] Starting component Posthog
+[36mDEBUG[0m:    [11-05-2024 16:10:14] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-05-2024 16:10:14] Starting component SegmentAPI
+[32mINFO[0m:     [11-05-2024 16:10:14] Started server process [[36m165336[0m]
+[32mINFO[0m:     [11-05-2024 16:10:14] Waiting for application startup.
+[32mINFO[0m:     [11-05-2024 16:10:14] Application startup complete.
+[32mINFO[0m:     [11-05-2024 16:10:14] Uvicorn running on [1mhttp://localhost:9999[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-05-2024 16:10:19] 127.0.0.1:41980 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:10:19] 127.0.0.1:41980 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:10:19] 127.0.0.1:41990 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:10:19] 127.0.0.1:41990 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:10:41] 127.0.0.1:47178 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:10:41] 127.0.0.1:47178 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:10:41] 127.0.0.1:47194 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:10:41] 127.0.0.1:47194 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[36mDEBUG[0m:    [11-05-2024 16:10:41] Starting component PersistentLocalHnswSegment
+[32mINFO[0m:     [11-05-2024 16:10:41] 127.0.0.1:47194 - "POST /api/v1/collections/c475842e-1f3a-4b3e-9010-1a68c8a150bd/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 16:10:41] 127.0.0.1:47210 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:10:41] 127.0.0.1:47210 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:10:41] 127.0.0.1:47216 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:10:41] 127.0.0.1:47216 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:10:41] 127.0.0.1:47216 - "POST /api/v1/collections/c475842e-1f3a-4b3e-9010-1a68c8a150bd/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 16:10:41] 127.0.0.1:47222 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:10:41] 127.0.0.1:47222 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:10:41] 127.0.0.1:47236 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:10:41] 127.0.0.1:47236 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:10:41] 127.0.0.1:47236 - "POST /api/v1/collections/c475842e-1f3a-4b3e-9010-1a68c8a150bd/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 16:10:41] 127.0.0.1:47248 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:10:41] 127.0.0.1:47248 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:10:41] 127.0.0.1:47252 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:10:41] 127.0.0.1:47252 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:10:41] 127.0.0.1:47252 - "POST /api/v1/collections/c475842e-1f3a-4b3e-9010-1a68c8a150bd/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 16:10:41] 127.0.0.1:47266 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:10:41] 127.0.0.1:47266 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:10:41] 127.0.0.1:47270 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:11:34] Shutting down
+[32mINFO[0m:     [11-05-2024 16:11:34] Waiting for application shutdown.
+[32mINFO[0m:     [11-05-2024 16:11:34] Application shutdown complete.
+[32mINFO[0m:     [11-05-2024 16:11:34] Finished server process [[36m165336[0m]
+[33mWARNING[0m:  [11-05-2024 16:13:11] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-05-2024 16:13:11] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-05-2024 16:13:11] Starting component System
+[36mDEBUG[0m:    [11-05-2024 16:13:11] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-05-2024 16:13:11] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [11-05-2024 16:13:11] Starting component SqliteDB
+[36mDEBUG[0m:    [11-05-2024 16:13:11] Starting component Posthog
+[36mDEBUG[0m:    [11-05-2024 16:13:11] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-05-2024 16:13:11] Starting component SegmentAPI
+[32mINFO[0m:     [11-05-2024 16:13:11] Started server process [[36m166196[0m]
+[32mINFO[0m:     [11-05-2024 16:13:11] Waiting for application startup.
+[32mINFO[0m:     [11-05-2024 16:13:11] Application startup complete.
+[32mINFO[0m:     [11-05-2024 16:13:11] Uvicorn running on [1mhttp://localhost:9999[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-05-2024 16:13:16] 127.0.0.1:44978 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:13:16] 127.0.0.1:44978 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:13:16] 127.0.0.1:44992 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:13:16] 127.0.0.1:44992 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:13:34] 127.0.0.1:50094 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:13:34] 127.0.0.1:50094 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:13:34] 127.0.0.1:50096 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:13:34] 127.0.0.1:50096 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[36mDEBUG[0m:    [11-05-2024 16:13:34] Starting component PersistentLocalHnswSegment
+[32mINFO[0m:     [11-05-2024 16:13:34] 127.0.0.1:50096 - "POST /api/v1/collections/c475842e-1f3a-4b3e-9010-1a68c8a150bd/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 16:13:34] 127.0.0.1:50100 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:13:34] 127.0.0.1:50100 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:13:34] 127.0.0.1:50114 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:13:34] 127.0.0.1:50114 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:13:34] 127.0.0.1:50114 - "POST /api/v1/collections/c475842e-1f3a-4b3e-9010-1a68c8a150bd/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 16:13:34] 127.0.0.1:50126 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:13:34] 127.0.0.1:50126 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:13:34] 127.0.0.1:50134 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:13:34] 127.0.0.1:50134 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:13:34] 127.0.0.1:50134 - "POST /api/v1/collections/c475842e-1f3a-4b3e-9010-1a68c8a150bd/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 16:13:34] 127.0.0.1:50138 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:13:34] 127.0.0.1:50138 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:13:34] 127.0.0.1:50146 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:13:34] 127.0.0.1:50146 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:13:34] 127.0.0.1:50146 - "POST /api/v1/collections/c475842e-1f3a-4b3e-9010-1a68c8a150bd/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 16:13:34] 127.0.0.1:50162 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:13:34] 127.0.0.1:50162 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:13:34] 127.0.0.1:50168 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:13:34] 127.0.0.1:50168 - "POST /api/v1/collections/c475842e-1f3a-4b3e-9010-1a68c8a150bd/query HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:14:47] 127.0.0.1:33842 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:14:47] 127.0.0.1:33842 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:14:47] 127.0.0.1:33852 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:14:47] 127.0.0.1:33852 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:14:47] 127.0.0.1:33852 - "POST /api/v1/collections/c475842e-1f3a-4b3e-9010-1a68c8a150bd/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 16:14:47] 127.0.0.1:33860 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:14:47] 127.0.0.1:33860 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:14:47] 127.0.0.1:33866 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:14:47] 127.0.0.1:33866 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:14:47] 127.0.0.1:33866 - "POST /api/v1/collections/c475842e-1f3a-4b3e-9010-1a68c8a150bd/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 16:14:47] 127.0.0.1:33874 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:14:47] 127.0.0.1:33874 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:14:47] 127.0.0.1:33888 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:14:47] 127.0.0.1:33888 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:14:47] 127.0.0.1:33888 - "POST /api/v1/collections/c475842e-1f3a-4b3e-9010-1a68c8a150bd/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 16:14:47] 127.0.0.1:33900 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:14:47] 127.0.0.1:33900 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:14:47] 127.0.0.1:33912 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:14:47] 127.0.0.1:33912 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:14:47] 127.0.0.1:33912 - "POST /api/v1/collections/c475842e-1f3a-4b3e-9010-1a68c8a150bd/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 16:14:47] 127.0.0.1:33914 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:14:47] 127.0.0.1:33914 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:14:47] 127.0.0.1:33916 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:14:47] 127.0.0.1:33916 - "POST /api/v1/collections/c475842e-1f3a-4b3e-9010-1a68c8a150bd/query HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:15:02] Shutting down
+[32mINFO[0m:     [11-05-2024 16:15:02] Waiting for application shutdown.
+[32mINFO[0m:     [11-05-2024 16:15:02] Application shutdown complete.
+[32mINFO[0m:     [11-05-2024 16:15:02] Finished server process [[36m166196[0m]
+[33mWARNING[0m:  [11-05-2024 16:24:31] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-05-2024 16:24:31] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-05-2024 16:24:31] Starting component System
+[36mDEBUG[0m:    [11-05-2024 16:24:31] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-05-2024 16:24:31] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [11-05-2024 16:24:31] Starting component SqliteDB
+[36mDEBUG[0m:    [11-05-2024 16:24:31] Starting component Posthog
+[36mDEBUG[0m:    [11-05-2024 16:24:31] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-05-2024 16:24:31] Starting component SegmentAPI
+[32mINFO[0m:     [11-05-2024 16:24:31] Started server process [[36m167444[0m]
+[32mINFO[0m:     [11-05-2024 16:24:31] Waiting for application startup.
+[32mINFO[0m:     [11-05-2024 16:24:31] Application startup complete.
+[32mINFO[0m:     [11-05-2024 16:24:31] Uvicorn running on [1mhttp://localhost:9999[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-05-2024 16:24:35] 127.0.0.1:58506 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:24:35] 127.0.0.1:58506 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:24:35] 127.0.0.1:58514 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:24:35] 127.0.0.1:58514 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:24:35] 127.0.0.1:58514 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:24:49] 127.0.0.1:47188 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:24:49] 127.0.0.1:47188 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:24:49] 127.0.0.1:47204 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:24:49] 127.0.0.1:47204 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[36mDEBUG[0m:    [11-05-2024 16:24:49] Starting component PersistentLocalHnswSegment
+[32mINFO[0m:     [11-05-2024 16:24:49] 127.0.0.1:47204 - "POST /api/v1/collections/db19a5c3-d5a8-421a-aea4-825ea446d83e/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 16:24:49] 127.0.0.1:47212 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:24:49] 127.0.0.1:47212 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:24:49] 127.0.0.1:47218 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:24:49] 127.0.0.1:47218 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:24:49] 127.0.0.1:47218 - "POST /api/v1/collections/db19a5c3-d5a8-421a-aea4-825ea446d83e/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 16:24:49] 127.0.0.1:47220 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:24:49] 127.0.0.1:47220 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:24:49] 127.0.0.1:47230 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:24:49] 127.0.0.1:47230 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:24:49] 127.0.0.1:47230 - "POST /api/v1/collections/db19a5c3-d5a8-421a-aea4-825ea446d83e/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 16:24:49] 127.0.0.1:47232 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:24:49] 127.0.0.1:47232 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:24:49] 127.0.0.1:47236 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:24:49] 127.0.0.1:47236 - "GET /api/v1/pre-flight-checks HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:24:49] 127.0.0.1:47236 - "POST /api/v1/collections/db19a5c3-d5a8-421a-aea4-825ea446d83e/add HTTP/1.1" 201
+[32mINFO[0m:     [11-05-2024 16:24:49] 127.0.0.1:47242 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:24:49] 127.0.0.1:47242 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:24:49] 127.0.0.1:47254 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:24:49] 127.0.0.1:47254 - "POST /api/v1/collections/db19a5c3-d5a8-421a-aea4-825ea446d83e/query HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:25:34] 127.0.0.1:36494 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:25:34] 127.0.0.1:36494 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:25:34] 127.0.0.1:36504 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:25:34] 127.0.0.1:36504 - "POST /api/v1/collections/db19a5c3-d5a8-421a-aea4-825ea446d83e/query HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:36:04] 127.0.0.1:55028 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:36:04] 127.0.0.1:55028 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:36:04] 127.0.0.1:55032 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:36:04] 127.0.0.1:55032 - "POST /api/v1/collections/db19a5c3-d5a8-421a-aea4-825ea446d83e/query HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:36:16] 127.0.0.1:40382 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:36:16] 127.0.0.1:40382 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:36:16] 127.0.0.1:40390 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:36:16] 127.0.0.1:40390 - "POST /api/v1/collections/db19a5c3-d5a8-421a-aea4-825ea446d83e/query HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:36:25] Shutting down
+[32mINFO[0m:     [11-05-2024 16:36:25] Waiting for application shutdown.
+[32mINFO[0m:     [11-05-2024 16:36:25] Application shutdown complete.
+[32mINFO[0m:     [11-05-2024 16:36:25] Finished server process [[36m167444[0m]
+[33mWARNING[0m:  [11-05-2024 16:39:28] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-05-2024 16:39:28] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-05-2024 16:39:28] Starting component System
+[36mDEBUG[0m:    [11-05-2024 16:39:28] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-05-2024 16:39:28] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [11-05-2024 16:39:28] Starting component SqliteDB
+[36mDEBUG[0m:    [11-05-2024 16:39:28] Starting component Posthog
+[36mDEBUG[0m:    [11-05-2024 16:39:28] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-05-2024 16:39:28] Starting component SegmentAPI
+[32mINFO[0m:     [11-05-2024 16:39:28] Started server process [[36m169245[0m]
+[32mINFO[0m:     [11-05-2024 16:39:28] Waiting for application startup.
+[32mINFO[0m:     [11-05-2024 16:39:28] Application startup complete.
+[32mINFO[0m:     [11-05-2024 16:39:28] Uvicorn running on [1mhttp://localhost:9999[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-05-2024 16:39:32] 127.0.0.1:47230 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:39:32] 127.0.0.1:47230 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:39:32] 127.0.0.1:47232 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:39:32] 127.0.0.1:47232 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:39:56] 127.0.0.1:55400 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:39:56] 127.0.0.1:55400 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:39:56] 127.0.0.1:55410 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [11-05-2024 16:39:56] Starting component PersistentLocalHnswSegment
+[32mINFO[0m:     [11-05-2024 16:39:56] 127.0.0.1:55410 - "POST /api/v1/collections/db19a5c3-d5a8-421a-aea4-825ea446d83e/query HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:43:29] Shutting down
+[32mINFO[0m:     [11-05-2024 16:43:29] Waiting for application shutdown.
+[32mINFO[0m:     [11-05-2024 16:43:29] Application shutdown complete.
+[32mINFO[0m:     [11-05-2024 16:43:29] Finished server process [[36m169245[0m]
+[33mWARNING[0m:  [11-05-2024 16:43:34] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-05-2024 16:43:34] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-05-2024 16:43:34] Starting component System
+[36mDEBUG[0m:    [11-05-2024 16:43:34] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-05-2024 16:43:34] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [11-05-2024 16:43:34] Starting component SqliteDB
+[36mDEBUG[0m:    [11-05-2024 16:43:34] Starting component Posthog
+[36mDEBUG[0m:    [11-05-2024 16:43:34] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-05-2024 16:43:34] Starting component SegmentAPI
+[32mINFO[0m:     [11-05-2024 16:43:34] Started server process [[36m170067[0m]
+[32mINFO[0m:     [11-05-2024 16:43:34] Waiting for application startup.
+[32mINFO[0m:     [11-05-2024 16:43:34] Application startup complete.
+[32mINFO[0m:     [11-05-2024 16:43:34] Uvicorn running on [1mhttp://localhost:9999[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-05-2024 16:43:39] 127.0.0.1:55788 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:43:39] 127.0.0.1:55788 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:43:39] 127.0.0.1:55802 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:43:39] 127.0.0.1:55802 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:43:51] 127.0.0.1:51698 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:43:51] 127.0.0.1:51698 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:43:51] 127.0.0.1:51712 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [11-05-2024 16:43:51] Starting component PersistentLocalHnswSegment
+[32mINFO[0m:     [11-05-2024 16:43:51] 127.0.0.1:51712 - "POST /api/v1/collections/db19a5c3-d5a8-421a-aea4-825ea446d83e/query HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:46:30] 127.0.0.1:35418 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:46:30] 127.0.0.1:35418 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:46:30] 127.0.0.1:35428 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:46:30] 127.0.0.1:35428 - "POST /api/v1/collections/db19a5c3-d5a8-421a-aea4-825ea446d83e/query HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:47:51] 127.0.0.1:57578 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:47:51] 127.0.0.1:57578 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:47:51] 127.0.0.1:57590 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:47:51] 127.0.0.1:57590 - "POST /api/v1/collections/db19a5c3-d5a8-421a-aea4-825ea446d83e/query HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:48:07] 127.0.0.1:58120 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:48:07] 127.0.0.1:58120 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:48:07] 127.0.0.1:58122 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:48:08] 127.0.0.1:58122 - "POST /api/v1/collections/db19a5c3-d5a8-421a-aea4-825ea446d83e/query HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:48:25] 127.0.0.1:38866 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:48:25] 127.0.0.1:38866 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:48:25] 127.0.0.1:38874 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:48:25] 127.0.0.1:38874 - "POST /api/v1/collections/db19a5c3-d5a8-421a-aea4-825ea446d83e/query HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:48:45] 127.0.0.1:32988 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:48:45] 127.0.0.1:32988 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:48:45] 127.0.0.1:32994 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:48:45] 127.0.0.1:32994 - "POST /api/v1/collections/db19a5c3-d5a8-421a-aea4-825ea446d83e/query HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:49:22] 127.0.0.1:36562 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:49:22] 127.0.0.1:36562 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:49:22] 127.0.0.1:36564 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:49:22] 127.0.0.1:36564 - "POST /api/v1/collections/db19a5c3-d5a8-421a-aea4-825ea446d83e/query HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:49:45] 127.0.0.1:51176 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:49:45] 127.0.0.1:51176 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:49:45] 127.0.0.1:51178 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 16:49:45] 127.0.0.1:51178 - "POST /api/v1/collections/db19a5c3-d5a8-421a-aea4-825ea446d83e/query HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 17:03:23] 127.0.0.1:55544 - "GET / HTTP/1.1" 404
+[32mINFO[0m:     [11-05-2024 22:42:40] Shutting down
+[32mINFO[0m:     [11-05-2024 22:42:40] Waiting for application shutdown.
+[32mINFO[0m:     [11-05-2024 22:42:40] Application shutdown complete.
+[32mINFO[0m:     [11-05-2024 22:42:40] Finished server process [[36m170067[0m]
+[33mWARNING[0m:  [11-05-2024 22:46:32] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [11-05-2024 22:46:32] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [11-05-2024 22:46:32] Starting component System
+[36mDEBUG[0m:    [11-05-2024 22:46:32] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [11-05-2024 22:46:32] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [11-05-2024 22:46:32] Starting component SqliteDB
+[36mDEBUG[0m:    [11-05-2024 22:46:32] Starting component Posthog
+[36mDEBUG[0m:    [11-05-2024 22:46:32] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [11-05-2024 22:46:32] Starting component SegmentAPI
+[32mINFO[0m:     [11-05-2024 22:46:32] Started server process [[36m196480[0m]
+[32mINFO[0m:     [11-05-2024 22:46:32] Waiting for application startup.
+[32mINFO[0m:     [11-05-2024 22:46:32] Application startup complete.
+[32mINFO[0m:     [11-05-2024 22:46:32] Uvicorn running on [1mhttp://localhost:9999[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [11-05-2024 22:46:37] 127.0.0.1:56574 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 22:46:37] 127.0.0.1:56574 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 22:46:37] 127.0.0.1:56582 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 22:46:37] 127.0.0.1:56582 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 22:46:55] 127.0.0.1:54994 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 22:46:55] 127.0.0.1:54994 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 22:46:55] 127.0.0.1:54996 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [11-05-2024 22:46:55] Starting component PersistentLocalHnswSegment
+[32mINFO[0m:     [11-05-2024 22:46:55] 127.0.0.1:54996 - "POST /api/v1/collections/db19a5c3-d5a8-421a-aea4-825ea446d83e/query HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 22:48:14] 127.0.0.1:45140 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 22:48:14] 127.0.0.1:45140 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 22:48:14] 127.0.0.1:45146 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 22:48:14] 127.0.0.1:45146 - "POST /api/v1/collections/db19a5c3-d5a8-421a-aea4-825ea446d83e/query HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 22:49:19] 127.0.0.1:53426 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 22:49:19] 127.0.0.1:53426 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 22:49:19] 127.0.0.1:53438 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 22:49:19] 127.0.0.1:53438 - "POST /api/v1/collections/db19a5c3-d5a8-421a-aea4-825ea446d83e/query HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 22:49:24] 127.0.0.1:34050 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 22:49:24] 127.0.0.1:34050 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 22:49:24] 127.0.0.1:34060 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 22:49:24] 127.0.0.1:34060 - "POST /api/v1/collections/db19a5c3-d5a8-421a-aea4-825ea446d83e/query HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 22:49:54] 127.0.0.1:47130 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 22:49:54] 127.0.0.1:47130 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 22:49:54] 127.0.0.1:47134 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 22:49:54] 127.0.0.1:47134 - "POST /api/v1/collections/db19a5c3-d5a8-421a-aea4-825ea446d83e/query HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 22:50:22] 127.0.0.1:43622 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 22:50:22] 127.0.0.1:43622 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 22:50:22] 127.0.0.1:43626 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 22:50:22] 127.0.0.1:43626 - "POST /api/v1/collections/db19a5c3-d5a8-421a-aea4-825ea446d83e/query HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 22:50:40] 127.0.0.1:41952 - "GET /api/v1/tenants/default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 22:50:40] 127.0.0.1:41952 - "GET /api/v1/databases/default_database?tenant=default_tenant HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 22:50:40] 127.0.0.1:41958 - "GET /api/v1/collections/chroma_db?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [11-05-2024 22:50:40] 127.0.0.1:41958 - "POST /api/v1/collections/db19a5c3-d5a8-421a-aea4-825ea446d83e/query HTTP/1.1" 200
