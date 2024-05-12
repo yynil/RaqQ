@@ -176,3 +176,6 @@ end note
 
 ```
 
+## Examples
+
+You may find examples from src/clients/index_client.py's main entry.
