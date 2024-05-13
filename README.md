@@ -179,3 +179,8 @@ end note
 ## Examples
 
 You may find examples from src/clients/index_client.py's main entry.
+
+
+## External dependancies
+
+This project is built on top of ZeroMQ as RPC and MsgPack as serialization protocal. 
