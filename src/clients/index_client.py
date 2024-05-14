@@ -34,8 +34,9 @@ if __name__ == '__main__':
     # print(index_client.index_texts(["User: 我有一个数学表达式，请为我算出结果。\nBot: 好的。请出题。\nUser:(25-8)*12\nBot:"]))
     # print(index_client.index_texts(["美丽突额隆头鱼（学名：Semicossyphus pulcher）是东太平洋特有的一种隆头鱼科鱼类，分布于美国加利福尼亚州的蒙特利湾至墨西哥的加利福尼亚湾。[2]美丽突额隆头鱼为日行性肉食鱼类，主要猎物为各种底栖无脊椎动物。其和其他隆头鱼科物种一样是雌性先熟顺序性雌雄同体，即所有鱼出生时均为雌性，后可能转变为雄性。此外，该鱼也可食用。 "]))
     query = "美丽突额隆头鱼以什么为主要猎物？"
-    results = index_client.search_nearby(query)
-    documents = results["result"]["documents"][0]
+    results = index_client.search_nearby(query)['value']
+    print(results)
+    documents = results["documents"][0]
     print(documents)
     from llm_client import LLMClient
     llm_client = LLMClient("tcp://localhost:7781")  

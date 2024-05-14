@@ -2,12 +2,11 @@ import sys
 import os
 RWKV_PATH = os.environ.get('RWKV_PATH')
 sys.path.append(RWKV_PATH)
-from helpers import start_proxy
+from helpers import start_proxy, ServiceWorker
 from src.model_run import RWKV,create_empty_args,load_embedding_ckpt_and_parse_args,BiCrossFusionEncoder,generate,enable_lora
 from tokenizer.rwkv_tokenizer import TRIE_TOKENIZER
 import sqlitedict
 import torch
-
 
 class LLMService:
     def __init__(self,base_model_file,be_lora_file,ce_lora_file,tokenizer_file,device="cuda:0") -> None:
@@ -52,60 +51,33 @@ class LLMService:
                 out_str = generate(self.model, ctx,self.tokenizer,token_count=token_count,args=self.gen_args,device=self.device)
         enable_lora(self.model,enable=True)
         return out_str  
-    
 
-def llm_worker(base_model_file,bi_lora_path,cross_lora_path,tokenizer_file,device,backend_url,frontend_url):
-    import msgpack
-    llm_service = LLMService(base_model_file,bi_lora_path,cross_lora_path,tokenizer_file,device)
-    import zmq
-    context = zmq.Context()
-    socket = context.socket(zmq.REP)
-    socket.connect(backend_url)
-    print(f"\033[91mLLM worker connected to {backend_url}\033[0m")
-    while True:
-        message = socket.recv()
-        cmd = msgpack.unpackb(message, raw=False)
-        if cmd["cmd"] == "GET_EMBEDDINGS":
+class ServiceWorker(ServiceWorker):
+    def init_with_config(self, config):
+        base_model_file = config["base_model_file"]
+        bi_lora_path = config["bi_lora_path"]
+        cross_lora_path = config["cross_lora_path"]
+        tokenizer_file = config["tokenizer_file"]
+        device = config.get("device","cuda:0")
+        self.llm_service = LLMService(base_model_file,bi_lora_path,cross_lora_path,tokenizer_file,device) 
+    
+    def process(self, cmd):
+        if cmd['cmd'] == 'GET_EMBEDDINGS':
             texts = cmd["texts"]
-            value = llm_service.get_embeddings(texts)
-            value = {"value": value,"code": 200}
-            socket.send(msgpack.packb(value, use_bin_type=True))
-        elif cmd["cmd"] == "GET_CROSS_SCORES":
+            value = self.llm_service.get_embeddings(texts)
+            return value
+        elif cmd['cmd'] == 'GET_CROSS_SCORES':
             texts_0 = cmd["texts_0"]
             texts_1 = cmd["texts_1"]
-            value = llm_service.get_cross_scores(texts_0,texts_1)
-            value = {"value": value,"code": 200}
-            socket.send(msgpack.packb(value, use_bin_type=True))
-        elif cmd["cmd"] == "GENERATE_TEXTS":
+            value = self.llm_service.get_cross_scores(texts_0,texts_1)
+            return value
+        elif cmd['cmd'] == 'GENERATE_TEXTS':
             ctx = cmd["ctx"]
             token_count = cmd.get("token_count",100)
-            value = llm_service.generate_texts(ctx,token_count)
-            value = {"value": value,"code": 200}
-            socket.send(msgpack.packb(value, use_bin_type=True))
-        else:
-            socket.send(msgpack.packb({"code": 400}, use_bin_type=True))
-def start_llm_service(config):
-    base_model_file = config["base_model_file"]
-    bi_lora_path = config["bi_lora_path"]
-    cross_lora_path = config["cross_lora_path"]
-    tokenizer_file = config["tokenizer_file"]
-    num_workers = config.get("num_workers",1)
-    device = config.get("device","cuda:0")
-    backend_url = config["back_end"]["protocol"] + "://" + config["back_end"]["host"] + ":" + str(config["back_end"]["port"])
-    frontend_url = config["front_end"]["protocol"] + "://" + config["front_end"]["host"] + ":" + str(config["front_end"]["port"])    
-    print(f"Starting llm service with base model file {base_model_file} and bi lora path {bi_lora_path} and cross lora path {cross_lora_path} and tokenizer file {tokenizer_file} and device {device}")
-    print(f"Starting llm service with backend url {backend_url} and frontend url {frontend_url}")
-    import multiprocessing
-    multiprocessing.set_start_method('spawn', force=True)
-    print(f'Starting {num_workers} workers')
-    for i in range(num_workers):
-        process = multiprocessing.Process(target=llm_worker, args=(base_model_file,bi_lora_path,cross_lora_path,tokenizer_file,device,backend_url,frontend_url))
-        process.start()
-    
+            value = self.llm_service.generate_texts(ctx,token_count)
+            return value
+        return ServiceWorker.UNSUPPORTED_COMMAND
 
-    import multiprocessing
-    process = multiprocessing.Process(target=start_proxy, args=(frontend_url,backend_url))
-    process.start()
 
 if __name__ == '__main__':
     base_model_file = "/media/yueyulin/KINGSTON/models/rwkv6/RWKV-x060-World-1B6-v2.1-20240328-ctx4096.pth"

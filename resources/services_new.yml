@@ -1,25 +1,35 @@
-cache:
+
+cache_reader:
   enabled: true
   db_file: /tmp/cache.db
-  reader:
+  service_module: cache_service
+  class_name: CacheReaderService
+  front_end:
     host: localhost
-    front_end:
-      protocol: tcp
-      port: 7777
-    back_end:
-      protocol: tcp
-      port: 7778
-    num_workers: 4
-  writer:
+    protocol: tcp
+    port: 7777
+  back_end:
     host: localhost
-    front_end:
-      protocol: tcp
-      port: 7779
-    back_end:
-      protocol: tcp
-      port: 7780
+    protocol: tcp
+    port: 7778
+  num_workers: 4
+cache_writer:
+  enabled: true
+  db_file: /tmp/cache.db
+  service_module: cache_service
+  class_name: CacheWriterService
+  front_end:
+    host: localhost
+    protocol: tcp
+    port: 7779
+  back_end:
+    host: localhost
+    protocol: tcp
+    port: 7780
+  num_workers: 1
 llm:
   enabled: true
+  service_module: llm_service
   front_end:
     host: localhost
     protocol: tcp
@@ -29,13 +39,16 @@ llm:
     protocol: tcp
     port: 7782
   num_workers: 1
+  spawn_method: spawn
   base_model_file: /media/yueyulin/KINGSTON/models/rwkv6/RWKV-x060-World-1B6-v2.1-20240328-ctx4096.pth
   bi_lora_path: /media/yueyulin/KINGSTON/models/rwkv6/lora/bi-encoder/add_mlp_in_batch_neg/epoch_0_step_200000/RWKV-x060-World-1B6-v2.1-20240328-ctx4096.pth.pth
   cross_lora_path: /media/yueyulin/KINGSTON/models/rwkv6/lora/cross-encoder/epoch_0_step_500000/RWKV-x060-World-1B6-v2.1-20240328-ctx4096.pth.pth
   tokenizer_file: /home/yueyulin/github/RWKV_LM_EXT/tokenizer/rwkv_vocab_v20230424.txt
   device: cuda:0
-indexing:
+index:
   enabled: true
+  service_module: index_service
+  is_init_once: true
   front_end:
     host: localhost
     protocol: tcp
@@ -49,3 +62,17 @@ indexing:
   chroma_host: localhost
   num_workers: 4
   llm_front_end_url: tcp://localhost:7781
+
+file:
+  enabled: true
+  service_module: files_service
+  db_path: /home/yueyulin/tmp/file_service.db
+  front_end:
+    host: localhost
+    protocol: tcp
+    port: 7785
+  back_end:
+    host: localhost
+    protocol: tcp
+    port: 7786
+  num_workers: 1

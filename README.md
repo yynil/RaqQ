@@ -184,3 +184,12 @@ You may find examples from src/clients/index_client.py's main entry.
 ## External dependancies
 
 This project is built on top of ZeroMQ as RPC and MsgPack as serialization protocal. 
+
+
+## Implement new service
+
+You only need to implement ServiceWorker in src/services/helpers.py.
+
+The src/services/service_starter_new.py is the main entry and resources/services_new.yml is the configuration. It's pretty straight forward to add/modify any service.
+
+If there is a Init-Once method like src/services/index_service.py to start a chroma db, you only need to implement a method init_once(config) function.
