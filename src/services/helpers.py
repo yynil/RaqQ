@@ -41,12 +41,14 @@ class ServiceWorker(ABC):
             cmd = msgpack.unpackb(message, raw=False)
             try:
                 resp = self.process(cmd)
-                if resp==ServiceWorker.UNSUPPORTED_COMMAND:
+                if isinstance(resp,str) and resp==ServiceWorker.UNSUPPORTED_COMMAND:
                     resp = {"code": 400,"error": "Unsupported command"}
                 else:
                     resp = {"code": 200, "value": resp}
                 self.socket.send(msgpack.packb(resp, use_bin_type=True))
             except Exception as e:
+                from traceback import print_exc
+                print_exc()
                 print(f"Error processing command {cmd} with error {e}")
                 resp = {"code": 400,"error": str(e)}
                 self.socket.send(msgpack.packb(resp, use_bin_type=True))
