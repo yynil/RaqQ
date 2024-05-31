@@ -56,13 +56,13 @@ class LLMService:
             inputs = [inputs]
         print(inputs)
 
-        embeddings_1 = self.bgem3.encode(inputs, 
-                                    batch_size=12, 
-                                    max_length=512, # If you don't need such a long length, you can set a smaller value to speed up the encoding process.
-                                    )['dense_vecs'].tolist()
-        # outputs = self.fused_model.encode_texts(inputs)
-        print(embeddings_1)
-        return embeddings_1
+        # outputs = self.bgem3.encode(inputs, 
+        #                             batch_size=12, 
+        #                             max_length=512, # If you don't need such a long length, you can set a smaller value to speed up the encoding process.
+        #                             )['dense_vecs'].tolist()
+        outputs = self.fused_model.encode_texts(inputs)
+        print(outputs)
+        return outputs
         
     def get_cross_scores(self,texts_0,texts_1):
         assert isinstance(texts_0,list) and isinstance(texts_1,list)
@@ -160,10 +160,12 @@ class ServiceWorker(ServiceWorker):
 if __name__ == '__main__':
     base_model_file = "/media/yueyulin/KINGSTON/models/rwkv6/RWKV-x060-World-1B6-v2.1-20240328-ctx4096.pth"
     bi_lora_path = '/media/yueyulin/data_4t/models/pissa_biencoder/trainable_model/epoch_0_step_160000/RWKV-x060-World-1B6-v2.1-20240328-ctx4096.pth.pth'
+    bi_lora_path = '/media/yueyulin/data_4t/models/pissa_biencoder/ctx256/trainable_model/epoch_0_step_40000/RWKV-x060-World-1B6-v2.1-20240328-ctx4096.pth.pth'
     cross_lora_path = '/media/yueyulin/data_4t/models/lora/cross_encoder/epoch_0/RWKV-x060-World-1B6-v2_rwkv_lora.pth'
     chat_lora_path = '/media/yueyulin/KINGSTON/tmp/pissa_sft_drcd/20240530-112010/trainable_model/epoch_0/RWKV-x060-World-1B6-v2.1-20240328-ctx4096.pth.pth'
     chat_pissa_path = '/media/yueyulin/KINGSTON/tmp/pissa_sft_drcd/20240530-112010/init_pissa.pth'
     be_pissa_path = '/media/yueyulin/data_4t/models/pissa_biencoder/init_pissa.pth'
+    be_pissa_path = '/media/yueyulin/data_4t/models/pissa_biencoder/ctx256/init_pissa.pth'
     tokenizer_file = '/home/yueyulin/github/RWKV_LM_EXT/tokenizer/rwkv_vocab_v20230424.txt'
     llm_service = LLMService(
         base_model_file,

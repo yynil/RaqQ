@@ -1,6 +1,6 @@
 
 cache_reader:
-  enabled: true
+  enabled: false
   db_file: /tmp/cache.db
   service_module: cache_service
   class_name: CacheReaderService
@@ -14,7 +14,7 @@ cache_reader:
     port: 7778
   num_workers: 4
 cache_writer:
-  enabled: true
+  enabled: false
   db_file: /tmp/cache.db
   service_module: cache_service
   class_name: CacheWriterService
@@ -41,12 +41,23 @@ llm:
   num_workers: 1
   spawn_method: spawn
   base_model_file: /media/yueyulin/KINGSTON/models/rwkv6/RWKV-x060-World-1B6-v2.1-20240328-ctx4096.pth
-  bi_lora_path: /media/yueyulin/KINGSTON/models/rwkv6/lora/bi-encoder/add_mlp_in_batch_neg/epoch_0_step_200000/RWKV-x060-World-1B6-v2.1-20240328-ctx4096.pth.pth
-  cross_lora_path: /media/yueyulin/KINGSTON/models/rwkv6/lora/cross-encoder/epoch_0_step_500000/RWKV-x060-World-1B6-v2.1-20240328-ctx4096.pth.pth
+  bi_lora_path: /media/yueyulin/data_4t/models/pissa_biencoder/ctx256/trainable_model/epoch_0_step_40000/RWKV-x060-World-1B6-v2.1-20240328-ctx4096.pth.pth
+  be_pissa_path: /media/yueyulin/data_4t/models/pissa_biencoder/ctx256/init_pissa.pth
+  cross_lora_path: /media/yueyulin/data_4t/models/lora/cross_encoder/epoch_0/RWKV-x060-World-1B6-v2_rwkv_lora.pth
   tokenizer_file: /home/yueyulin/github/RWKV_LM_EXT/tokenizer/rwkv_vocab_v20230424.txt
-  device: cuda:0
+  chat_lora_path: /media/yueyulin/data_4t/models/pissa/epoch_2/RWKV-x060-World-1B6-v2.1-20240328-ctx4096.pth.pth
+  chat_pissa_path: /media/yueyulin/data_4t/models/pissa/init_pissa.pth
+  chat_lora_r: 8
+  chat_lora_alpha: 8
+  pooling_type: lasttoken
+  crossencoder_lora_alpha: 32
+  crossencoder_lora_r: 8
+  biencoder_lora_r: 8
+  biencoder_lora_alpha: 8
+  be_targets: ['att','ffn']
+  device: cuda
 index:
-  enabled: true
+  enabled: false
   service_module: index_service
   is_init_once: true
   front_end:
@@ -64,7 +75,7 @@ index:
   llm_front_end_url: tcp://localhost:7781
 
 file:
-  enabled: true
+  enabled: false
   service_module: files_service
   db_path: /home/yueyulin/tmp/file_service.db
   front_end:
